@@ -1,2 +1,2 @@
-![HypeBolt logo wordmark, yellow](https://assets.hypebolt.org/img/branding/hb/general/hypebolt_logo_wordmark_yellow.png)
 # Welcome to HypeBolt Development
+HypeBolt Development is a top-base division of HypeBolt Media focussing on the web & app development for the organization.
